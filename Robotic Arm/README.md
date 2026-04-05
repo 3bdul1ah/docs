@@ -1,8 +1,17 @@
-# robotic arm
+# Robotic Arm
 
-notes and resources related to robotic arms.
+Notes and resources for robotic arms.
 
-## resources
-- [ ] [topic 1](./topic1.md)
-- [ ] [topic 2](./topic2.md)
-- [ ] [topic 3](./topic3.md)
+## Courses / Blogs
+
+Soon.
+
+## Videos / Playlists
+
+* [Jazzy: Intermediate: ROS 2 Manipulation (MoveIt 2)](https://www.youtube.com/watch?v=c2Cm5bYHNFo&list=PLNWNEEf8BvG6lbOxH9AiXNetYcVgcJeWk)
+
+## Recommended Channels
+
+Soon.
+
+[Back to Hub](../README.md)

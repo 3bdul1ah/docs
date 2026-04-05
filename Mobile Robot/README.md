@@ -1,8 +1,17 @@
-# mobile robot
+# Mobile Robot
 
-notes and resources related to mobile robots.
+Notes and resources for mobile robots.
 
-## resources
-- [ ] [topic 1](./topic1.md)
-- [ ] [topic 2](./topic2.md)
-- [ ] [topic 3](./topic3.md)
+## Courses / Blogs
+
+Soon.
+
+## Videos / Playlists
+
+* [Jazzy: Intermediate: ROS 2 Navigation (Nav2)](https://www.youtube.com/watch?v=gyskLlvX3oI&list=PLNWNEEf8BvG45noktLVI9N0SmD72BpmH7)
+
+## Recommended Channels
+
+Soon.
+
+[Back to Hub](../README.md)
