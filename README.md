@@ -8,6 +8,8 @@ A central place for notes and resources.
 
 * [AI, ML and Computer Vision](./AI/README.md) Artificial intelligence, machine learning, and computer vision.
 
+* [GenAI Coding Agents](./GenAI%20Coding%20Agents/README.md) Generative AI and autonomous coding agents.
+
 * [Mobile Robot](./Mobile%20Robot/README.md) Mobile robot development and navigation.
 
 * [Robotic Arm](./Robotic%20Arm/README.md) Robotic arm control, kinematics, and simulation.
